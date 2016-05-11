@@ -7,8 +7,8 @@
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/UnityEngine.UI.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/UnityEngine.Networking.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/JsonOrg.dll
-/Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/KiiCloudUnitySDK.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/KiiCloudStorageSDK.dll
+/Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/KiiCloudUnitySDK.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/Mono.Cecil.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/Unity.SerializationLogic.dll
 /Users/satoshi/UnityProjects/WebGLStudy/WebGLStudy/Temp/bin/Debug/Unity.DataContract.dll
